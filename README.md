@@ -9,5 +9,5 @@ The following functions are implemented:
 ### Installation
 
 ``` r
-devtools::install_git("https://github.com/hrbrmstr/hilbert.git")
+devtools::install_github("hrbrmstr/hilbert")
 ```
