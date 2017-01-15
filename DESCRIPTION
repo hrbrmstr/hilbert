@@ -1,0 +1,19 @@
+Package: hilbert
+Type: Package
+Title: Hilbert Example
+Version: 0.1.0
+Date: 2017-01-14
+Author: Bob Rudis (bob@@rud.is)
+Maintainer: Bob Rudis <bob@rud.is>
+Description: Hilbert example
+URL: http://github.com/hrbrmstr/hilbert
+BugReports: https://github.com/hrbrmstr/hilbert/issues
+License: AGPL
+Suggests:
+    testthat
+Depends:
+    R (>= 3.2.0)
+Imports:
+    Rcpp
+LinkingTo: Rcpp
+RoxygenNote: 5.0.1
